@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hyeongjoon Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Process Engineer with experience in display and semiconductor manufacturing"
+  location         : "Chicago, IL"
+  employer         : "Purdue University"
   uri              : # URL
   email            : "none@example.org" 
 
