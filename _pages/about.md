@@ -8,4 +8,4 @@ redirect_from:
 
 Process Engineer with experience in semiconductor and display manufacturing.
 
-[Resume](/resume/) • [Projects](/portfolio/)
+[Projects](/portfolio/) | [Resume](/resume/)
