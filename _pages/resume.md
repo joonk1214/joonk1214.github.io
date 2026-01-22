@@ -13,13 +13,13 @@ redirect_from:
 
 Work Experience
 ======
-**Applied Materials — Process Engineer Co-op (Jul 2025 – Jan 2026)**<br>
+**Process Engineer Co-op — Applied Materials (Jul 2025 – Jan 2026)**<br>
 Developed etch processes through parameter tuning, material characterization, and data-driven analysis.
 
-**LG Display — Process Integration Engineer (Jun 2021 – Aug 2024)**<br>
+**Process Integration Engineer — LG Display (Jun 2021 – Aug 2024)**<br>
 Integrated and qualified OLED panel processes through root cause analysis and cross-functional collaboration.
 
-**DS Neolux — Quality Engineer (Oct 2020 – May 2021)**<br>
+**Quality Engineer — DS Neolux (Oct 2020 – May 2021)**<br>
 Supported product qualification through OLED device evaluation and experimental data analysis.
 
 ---
@@ -39,6 +39,6 @@ Python, JMP, Spotfire, Minitab, ImageJ, Quartz PCI, MS Office
 
 Education
 ======
-M.S. in Materials Engineering, Purdue University — 2026<br>
+M.S. in Materials Engineering — Purdue University (2026)<br>
 
-B.S. in Energy and Materials Engineering, Dongguk University — 2020
+B.S. in Energy and Materials Engineering — Dongguk University (2020)
