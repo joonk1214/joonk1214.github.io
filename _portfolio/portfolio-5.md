@@ -1,5 +1,5 @@
 ---
-title: "Particle Reduction for Yield Improvement"
+title: "iPhone 14/15 Pro Max Panel Validation"
 excerpt: "Validated mass production readiness of iPhone display panels to ensure compatibility and reliability across production stages<br/>"
 collection: portfolio
 ---
