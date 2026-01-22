@@ -11,27 +11,19 @@ redirect_from:
 
 ---
 
-Education
-======
-* M.S. in Materials Engineering, Purdue University, 2026
-* B.S. in Energy and Materials Engineering, Dongguk University, 2020
-
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Applied Materials | Gloucester, MA  
+**Process Engineer Co-op** · Jul 2025 – Jan 2026  
+Developed etch processes through parameter tuning, material characterization, and data-driven analysis.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### LG Display | Paju, South Korea  
+**Process Integration Engineer** · Jun 2021 – Aug 2024  
+Integrated and qualified OLED panel processes through root cause analysis and cross-functional collaboration.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### DS Neolux | Cheonan, South Korea  
+**Quality Engineer** · Oct 2020 – May 2021
+Supported product qualification through OLED device evaluation and experimental data analysis.
   
 Skills
 ======
@@ -41,3 +33,8 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Education
+======
+* M.S. in Materials Engineering, Purdue University, 2026
+* B.S. in Energy and Materials Engineering, Dongguk University, 2020
