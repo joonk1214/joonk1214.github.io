@@ -1,6 +1,6 @@
 ---
 permalink: /
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -8,4 +8,4 @@ redirect_from:
 
 Process Engineer with experience in semiconductor and display manufacturing.
 
-[Projects](/portfolio/) | [Resume](/resume/)
+## [Projects](/portfolio/) • [Resume](/resume/)
