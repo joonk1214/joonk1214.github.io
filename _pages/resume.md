@@ -5,10 +5,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+📄 **[Download Resume (PDF)]({{ base_path }}/files/Hyeongjoon Kim_Resume.pdf)**
 
-📄 **[Download Resume (PDF)]({{ base_path }}/files/Hyeongjoon_Kim_Resume.pdf)**
 ---
 
 Education
