@@ -9,8 +9,7 @@ author_profile: true
 
 ---
 
-Production & Yield
-======
+<h2>Production & Yield</h2>
 {% assign yield_projects = site.portfolio | where: "category", "yield" %}
 {% for post in yield_projects %}
   {% include archive-single.html %}
@@ -18,8 +17,7 @@ Production & Yield
 
 ---
 
-Process Development
-======
+## Process Development
 {% assign process_projects = site.portfolio | where: "category", "development" %}
 {% for post in process_projects %}
   {% include archive-single.html %}
@@ -27,8 +25,7 @@ Process Development
 
 ---
 
-Automation
-======
+## Automation
 {% assign automation_projects = site.portfolio | where: "category", "automation" %}
 {% for post in automation_projects %}
   {% include archive-single.html %}
