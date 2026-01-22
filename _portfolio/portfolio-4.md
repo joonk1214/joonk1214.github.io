@@ -1,6 +1,6 @@
 ---
-title: "Particle Reduction for Yield Improvement"
-excerpt: "Identified and mitigated particle contamination sources to improve product yield and reliability<br/>"
+title: "Particle Reduction"
+excerpt: "Identified and mitigated particle contamination sources to improve product yield and reliability.<br/>"
 collection: portfolio
 ---
 
