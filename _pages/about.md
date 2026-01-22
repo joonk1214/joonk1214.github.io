@@ -6,6 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-## Process Engineer with experience in semiconductor and display manufacturing.
+Process Engineer with experience in semiconductor and display manufacturing.
 
-## [Projects](/portfolio/) • [Resume](/resume/)
+[Projects](/portfolio/) • [Resume](/resume/)
