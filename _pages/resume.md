@@ -26,12 +26,14 @@ Supported product qualification through OLED device evaluation and experimental 
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Process & Manufacturing**  
+DOE, SPC, Root Cause Analysis, Yield and Reliability Improvement, Dry Etching, Thin-Film Deposition, Lithography
+
+**Characterization**  
+SEM, FIB, TEM, AFM, Ellipsometry, XRD
+
+**Data & Software**  
+Python, JMP, Spotfire, Minitab, ImageJ, Quartz PCI, MS Office
 
 ---
 
