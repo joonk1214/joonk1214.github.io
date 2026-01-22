@@ -1,5 +1,5 @@
 ---
-title: "ESD Defect Reduction for Yield Improvement"
+title: "ESD Defect Reduction."
 excerpt: "Analyzed ESD failure mechanisms and implemented process improvements to reduce defects and improve yield.<br/>"
 collection: portfolio
 ---
