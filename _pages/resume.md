@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "📄 **[Download Resume (PDF)]({{ base_path }}/files/Hyeongjoon_Kim_Resume.pdf)**"
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -8,6 +7,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+📄 **[Download Resume (PDF)]({{ base_path }}/files/Hyeongjoon_Kim_Resume.pdf)**
+---
 
 Education
 ======
