@@ -7,8 +7,26 @@ author_profile: true
 
 {% include base_path %}
 
+---
 
-{% for post in site.portfolio %}
+#### Production & Yield
+{% assign yield_projects = site.portfolio | where: "category", "yield" %}
+{% for post in yield_projects %}
   {% include archive-single.html %}
 {% endfor %}
 
+---
+
+#### Process Development
+{% assign process_projects = site.portfolio | where: "category", "development" %}
+{% for post in process_projects %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
+
+#### Automation
+{% assign automation_projects = site.portfolio | where: "category", "automation" %}
+{% for post in automation_projects %}
+  {% include archive-single.html %}
+{% endfor %}
