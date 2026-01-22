@@ -1,5 +1,5 @@
 ---
-title: "VACS Defect Reduction."
+title: "VACS Defect Reduction"
 excerpt: "Investigated viewing angle color shift defects and optimized panel processes to improve uniformity and yield.<br/>"
 collection: portfolio
 ---
