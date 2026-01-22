@@ -39,5 +39,5 @@ Python, JMP, Spotfire, Minitab, ImageJ, Quartz PCI, MS Office
 
 Education
 ======
-* M.S. in Materials Engineering, Purdue University, 2026
-* B.S. in Energy and Materials Engineering, Dongguk University, 2020
+M.S. in Materials Engineering, Purdue University, 2026
+B.S. in Energy and Materials Engineering, Dongguk University, 2020
