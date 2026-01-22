@@ -11,16 +11,16 @@ redirect_from:
 
 ---
 
-Work experience
+Work Experience
 ======
 ### Applied Materials — Process Engineer Co-op (Jul 2025 – Jan 2026)
-* Developed etch processes through parameter tuning, material characterization, and data-driven analysis.
+Developed etch processes through parameter tuning, material characterization, and data-driven analysis.
 
 ### LG Display — Process Integration Engineer (Jun 2021 – Aug 2024)
-* Integrated and qualified OLED panel processes through root cause analysis and cross-functional collaboration.
+Integrated and qualified OLED panel processes through root cause analysis and cross-functional collaboration.
 
 ### DS Neolux — Quality Engineer (Oct 2020 – May 2021)
-* Supported product qualification through OLED device evaluation and experimental data analysis.
+Supported product qualification through OLED device evaluation and experimental data analysis.
 
 ---
 
