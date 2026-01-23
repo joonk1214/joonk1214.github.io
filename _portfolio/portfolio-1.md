@@ -1,8 +1,8 @@
 ---
 title: "Via Etch Optimization"
-excerpt: "Developed via etch processes to achieve target etch profiles<br/><img src='/images/500x300.png'>"
+excerpt: "<img src='/images/500x300.png'>"
 collection: portfolio
 category: development
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Developed via etch processes to achieve target etch profiles. 
