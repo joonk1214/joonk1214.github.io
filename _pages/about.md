@@ -10,6 +10,8 @@ Process Engineer with experience in semiconductor and display manufacturing.
 
 I am seeking a full-time role in process engineering where I can apply my technical background to process development and optimization.
 
+---
+
 Quick Facts
 ======
 • 🎓 M.S. in Materials Engineering, graduating May 2026<br>
