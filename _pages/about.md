@@ -12,10 +12,10 @@ I am seeking a full-time role in process engineering where I can apply my techni
 
 Quick Facts
 ======
-	•	🎓 M.S. in Materials Engineering, graduating May 2026
-	•	🧩 Domain: Semiconductor & Display Manufacturing
-	•	🛠 Expertise: Process integration, yield improvement, dry etch (plasma)
-	•	🇺🇸 Work Authorization: U.S. STEM OPT (3 years)
-	•	📅 Availability: On or after May 25, 2026
+	• 🎓 M.S. in Materials Engineering, graduating May 2026
+	• 🧩 Domain: Semiconductor & Display Manufacturing
+	• 🛠 Expertise: Process integration, yield improvement, dry etch (plasma)
+	• 🇺🇸 Work Authorization: U.S. STEM OPT (3 years)
+	• 📅 Availability: On or after May 25, 2026
 
 [Projects](/portfolio/) • [Resume](/resume/)
