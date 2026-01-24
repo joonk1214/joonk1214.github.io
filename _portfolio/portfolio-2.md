@@ -1,6 +1,6 @@
 ---
 title: "TEM Measurement Automation (Python)"
-excerpt: "<img src='/images/500x300.png'>"
+excerpt: "<img src='/images/TEM Measurement Automation.png'>"
 collection: portfolio
 category: automation
 ---
