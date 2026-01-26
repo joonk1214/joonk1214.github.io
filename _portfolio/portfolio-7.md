@@ -1,6 +1,6 @@
 ---
 title: "VACS Defect Reduction"
-excerpt: "<img src='/images/500x300.png'>"
+excerpt: "<img src='/images/VACS Defect Reduction.png'>"
 collection: portfolio
 category: yield
 ---
