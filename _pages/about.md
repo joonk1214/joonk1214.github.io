@@ -8,7 +8,7 @@ redirect_from:
 
 Process Engineer with experience in semiconductor and display manufacturing.
 
-I am seeking a full-time role in process engineering where I can apply my technical background to process development and optimization.
+Seeking a full-time role where I can apply my technical background to process development and optimization.
 
 [Projects](/portfolio/) • [Resume](/resume/)
 
