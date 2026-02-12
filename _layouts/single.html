@@ -76,7 +76,7 @@ layout: default
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
-      <footer class="page__meta">
+      <footer class="page__meta" {% if page.collection == "portfolio" %}style="margin-bottom: 1.5rem;"{% endif %}>
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
@@ -84,7 +84,7 @@ layout: default
       </footer>
 
       {% if page.collection == "portfolio" %}
-        <div style="margin-top: 3rem;">
+        <div style="display:block; padding-top: 2rem; clear: both;">
           <a class="btn btn--primary"
               href="{{ base_path }}/portfolio/"
               style="text-decoration: none;">
