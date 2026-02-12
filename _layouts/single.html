@@ -46,16 +46,6 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content }}
-
-        {% if page.collection == "portfolio" %}
-          <p style="margin-top: 2rem;">
-            <a class="btn btn--primary"
-               href="{{ base_path }}/portfolio/"
-               style="text-decoration: none;">
-              ← Back to Projects
-            </a>
-          </p>
-        {% endif %}
         
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
@@ -93,6 +83,16 @@ layout: default
         {% include page__taxonomy.html %}
       </footer>
 
+      {% if page.collection == "portfolio" %}
+        <p style="margin-top: 2rem;">
+          <a class="btn btn--primary"
+              href="{{ base_path }}/portfolio/"
+              style="text-decoration: none;">
+            ← Back to Projects
+          </a>
+        </p>
+      {% endif %}      
+      
       {% if page.share %}{% include social-share.html %}{% endif %}
 
     {% unless page.collection == "portfolio" %}
