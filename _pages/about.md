@@ -10,9 +10,9 @@ Process Engineer with experience in semiconductor and display manufacturing.
 
 Seeking a full-time role where I can apply my technical background to process development and optimization.
 
-<a href="/portfolio/" class="btn btn--primary">See My Projects →</a>
+<a href="/portfolio/" class="btn btn--primary">Projects →</a>
 
-<a href="/resume/" class="btn btn--inverse">View Resume →</a>
+<a href="/resume/" class="btn btn--primary">Resume →</a>
 
 ---
 
